@@ -44,7 +44,7 @@ body {
 
 .parallax-one-background {
   position: relative;
-  background: url(/img/service-parallax-one.jpg);
+  background: url(../img/service-parallax-one.jpg);
   /* filter: blur(2px);
       -webkit-filter: blur(2px); */
   height: 100vh;
