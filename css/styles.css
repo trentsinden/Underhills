@@ -44,7 +44,7 @@ body {
 }
 
 .parallax-one-background {
-  background: url(img/corn-field.jpg);
+  background: url(../img/corn-field.jpg);
   /* filter: blur(2px);
   -webkit-filter: blur(2px); */
   height: 100vh;
