@@ -44,7 +44,7 @@ body {
 
 .parallax-one-background {
   position: relative;
-  background: url(/img/about-background.jpg);
+  background: url(../img/about-background.jpg);
   height: 100vh;
   background-position: center;
   background-attachment: fixed;
@@ -115,7 +115,7 @@ body {
 
 .parallax-two-background {
   position: relative;
-  background: url(/img/about-parallax-two.jpg);
+  background: url(../img/about-parallax-two.jpg);
   height: 60vh;
   background-position: center;
   background-attachment: fixed;
@@ -189,7 +189,7 @@ body {
 
 .parallax-three-background {
   position: relative;
-  background: url(/img/about-parallax-three.jpg);
+  background: url(../img/about-parallax-three.jpg);
   height: 60vh;
   background-position: center;
   background-attachment: fixed;
