@@ -44,7 +44,7 @@ body {
 }
 
 .parallax-one-background {
-  background: url(/img/corn-field.jpg);
+  background: url(img/corn-field.jpg);
   /* filter: blur(2px);
   -webkit-filter: blur(2px); */
   height: 100vh;
@@ -177,7 +177,7 @@ body {
 
 .parallax-two-background {
   position: relative;
-  background: url(/img/parallax-two-background.jpg);
+  background: url(img/parallax-two-background.jpg);
   height: 60vh;
   background-position: center;
   background-attachment: fixed;
@@ -242,7 +242,7 @@ body {
 
 .parallax-three-background {
   position: relative;
-  background: url(/img/parallax-three-background.jpg);
+  background: url(img/parallax-three-background.jpg);
   height: 60vh;
   background-position: center;
   background-attachment: fixed;
